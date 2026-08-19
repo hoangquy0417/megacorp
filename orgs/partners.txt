@@ -1,4 +1,4 @@
 partner list
-Boot.dev
+
 TheStartupBoot.dev
 TheStartup
